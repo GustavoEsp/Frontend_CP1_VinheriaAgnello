@@ -10,7 +10,7 @@ O site contém as seguintes páginas:
 - **Sobre**: Informações sobre a história e a equipe por trás da Vinheria Agnello.
 - **produtos**: Uma lista dos vinhos disponíveis, com descrições e preços.
 - **Contato**: Formulário de contato para os clientes se comunicarem com a vinícola.
-- - **Localização**: Lista com as localizações das nossas lojas.
+- **Localização**: Lista com as localizações das nossas lojas.
 
 ## Tecnologias Utilizadas
 
