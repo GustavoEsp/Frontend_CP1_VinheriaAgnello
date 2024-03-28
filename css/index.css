@@ -1,0 +1,88 @@
+body{
+    max-width: 100%;
+}
+main{
+    font-size: 20px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+main p {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#merlot {
+    display: flex;
+    width: 1200px;
+}
+
+#merlot h3 {
+    margin-top: 200px;
+}
+
+#merlot img {
+    width: 20rem;
+    aspect-ratio: 1/1;
+    background-color: rgba(184, 0, 61, 0.664);
+    border-radius: 100%;
+    margin-right: 30px;
+    margin-bottom: 1rem;
+    box-shadow: #000 0px 0px 10px;
+}
+
+#merlot p {
+    margin-top: 10%;
+    font-size: 25px;
+    left: 0;
+}
+
+#chardonnay {
+    display: flex;
+    width: 1200px;
+}
+
+#chardonnay img {
+    width: 20rem;
+    aspect-ratio: 1/1;
+    margin-top: 30px;
+    background-color: rgba(184, 0, 61, 0.664);
+    border-radius: 100%;
+    margin-bottom: 1rem;
+    box-shadow: #000 0px 0px 10px;
+}
+
+#chardonnay p {
+    margin-top: 15%;
+    font-size: 25px;
+}
+
+#chardonnay h3 {
+    margin-top: 250px;
+    margin-left: 20px;
+}
+
+#rose {
+    display: flex;
+    width: 80rem;
+}
+
+#rose img {
+    width: 20rem;
+    aspect-ratio: 1/1;
+    background-color: rgba(184, 0, 61, 0.664);
+    border-radius: 100%;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 1rem;
+    box-shadow: #000 0px 0px 10px;
+}
+
+#rose p {
+    margin-top: 12%;
+    font-size: 25px;
+}
+
+#rose h3 {
+    margin-top: 250px;
+}
